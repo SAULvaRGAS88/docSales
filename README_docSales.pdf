@@ -1,0 +1,419 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 3428 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 802 Tm (# DwuSales) Tj
+1 0 0 1 40 788 Tm () Tj
+1 0 0 1 40 774 Tm (Este documento descreve, de forma resumida e clara, o que o aplicativo faz: as telas, os) Tj
+1 0 0 1 40 760 Tm (fluxos e as funcionalidades disponveis ao usurio. A ordem das sees segue o menu principal) Tj
+1 0 0 1 40 746 Tm (do aplicativo.) Tj
+1 0 0 1 40 732 Tm () Tj
+1 0 0 1 40 718 Tm (---) Tj
+1 0 0 1 40 704 Tm () Tj
+1 0 0 1 40 690 Tm (## 1. Acesso e configurao inicial) Tj
+1 0 0 1 40 676 Tm () Tj
+1 0 0 1 40 662 Tm (### 1.1 Tela de configurao da empresa \(antes do login\)) Tj
+1 0 0 1 40 648 Tm () Tj
+1 0 0 1 40 634 Tm (- O usurio informa o **cdigo da empresa** \(cliente\) e clica em **Buscar Empresas**.) Tj
+1 0 0 1 40 620 Tm (- O sistema busca e exibe as **bases de dados** disponveis para aquela empresa.) Tj
+1 0 0 1 40 606 Tm (- O usurio escolhe qual base utilizar e clica em **Salvar**.) Tj
+1 0 0 1 40 592 Tm (- Os dados da empresa so gravados no aparelho. Em seguida, o usurio  direcionado para a) Tj
+1 0 0 1 40 578 Tm (tela de login.) Tj
+1 0 0 1 40 564 Tm () Tj
+1 0 0 1 40 550 Tm () Tj
+1 0 0 1 40 536 Tm ([Imagem] https://github.com/user-attachments/assets/e43c7430-364b-4ecf-abd5-2db72bcbac29) Tj
+1 0 0 1 40 522 Tm () Tj
+1 0 0 1 40 508 Tm () Tj
+1 0 0 1 40 494 Tm (### 1.2 Tela de login) Tj
+1 0 0 1 40 480 Tm () Tj
+1 0 0 1 40 466 Tm (- O usurio informa **usurio** e **senha** e pode marcar a opo de **salvar a senha** para) Tj
+1 0 0 1 40 452 Tm (uso offline.) Tj
+1 0 0 1 40 438 Tm (- Na primeira vez, o aplicativo pode pedir a **escolha do idioma** \(ex.: portugus, ingls,) Tj
+1 0 0 1 40 424 Tm (espanhol\).) Tj
+1 0 0 1 40 410 Tm (- H um link para **Configurao**, que leva de volta  tela onde se informa o cdigo da) Tj
+1 0 0 1 40 396 Tm (empresa e a base de dados.) Tj
+1 0 0 1 40 382 Tm (- O login  validado na internet. Quando vlido, o aplicativo pode iniciar uma **sincronizao) Tj
+1 0 0 1 40 368 Tm (inicial** dos dados \(carga inicial\) e, ao final, levar o usurio ao **Dashboard**.) Tj
+1 0 0 1 40 354 Tm () Tj
+1 0 0 1 40 340 Tm () Tj
+1 0 0 1 40 326 Tm ([Imagem] https://github.com/user-attachments/assets/4c79def6-42b8-4d1a-b0ea-520bd3675dd0) Tj
+1 0 0 1 40 312 Tm () Tj
+1 0 0 1 40 298 Tm () Tj
+1 0 0 1 40 284 Tm ([Imagem] https://github.com/user-attachments/assets/d4eab100-3113-461c-ab14-e1ce54e3cdf7) Tj
+1 0 0 1 40 270 Tm () Tj
+1 0 0 1 40 256 Tm ([Imagem] https://github.com/user-attachments/assets/7f9ac4f7-0a1a-4a94-9993-2fe2e74ee4ad) Tj
+1 0 0 1 40 242 Tm () Tj
+1 0 0 1 40 228 Tm () Tj
+1 0 0 1 40 214 Tm (---) Tj
+1 0 0 1 40 200 Tm () Tj
+1 0 0 1 40 186 Tm (## 2. Painel principal \(Dashboard\)) Tj
+1 0 0 1 40 172 Tm () Tj
+1 0 0 1 40 158 Tm (- O **Dashboard**  a tela inicial aps o login.) Tj
+1 0 0 1 40 144 Tm (- Mostra um **resumo** do que  importante para o dia a dia: indicadores de atendimentos \(em) Tj
+1 0 0 1 40 130 Tm (atraso, para hoje, futuros\), cotaes em aberto, pedidos em aberto, leads, clientes, clientes) Tj
+1 0 0 1 40 116 Tm (sem compras, documentos pendentes, rascunhos e falhas de envio.) Tj
+1 0 0 1 40 102 Tm (- O usurio pode ver a **meta do ms atual** \(vendas\) e um **grfico** de desempenho.) Tj
+1 0 0 1 40 88 Tm (- H um **boto de sincronizao** para atualizar os dados manualmente.) Tj
+1 0 0 1 40 74 Tm (-  possvel abrir avisos sobre **tabelas com problema** na sincronizao e sobre **documentos) Tj
+1 0 0 1 40 60 Tm (pendentes ou rascunhos**.) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 14 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Length 3353 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 802 Tm (- Em empresas com mais de uma filial, o aplicativo pode pedir que o usurio escolha **filial**) Tj
+1 0 0 1 40 788 Tm (e **utilizao** na primeira vez \(configurao inicial\).) Tj
+1 0 0 1 40 774 Tm (- O usurio pode acessar o **menu lateral** \(cone de menu\) para ir a qualquer outra tela do) Tj
+1 0 0 1 40 760 Tm (aplicativo.) Tj
+1 0 0 1 40 746 Tm () Tj
+1 0 0 1 40 732 Tm () Tj
+1 0 0 1 40 718 Tm ([Imagem] https://github.com/user-attachments/assets/22651b45-1bce-4c96-8833-fcd106acb2e7) Tj
+1 0 0 1 40 704 Tm () Tj
+1 0 0 1 40 690 Tm ([Imagem] https://github.com/user-attachments/assets/c32d9c3a-c8c9-4365-a79a-172ec189ad22) Tj
+1 0 0 1 40 676 Tm () Tj
+1 0 0 1 40 662 Tm () Tj
+1 0 0 1 40 648 Tm ([Imagem] https://github.com/user-attachments/assets/9fc225c6-39ca-406a-afc5-8e8c03a7b0dc) Tj
+1 0 0 1 40 634 Tm () Tj
+1 0 0 1 40 620 Tm () Tj
+1 0 0 1 40 606 Tm (---) Tj
+1 0 0 1 40 592 Tm () Tj
+1 0 0 1 40 578 Tm (## 3. Clientes) Tj
+1 0 0 1 40 564 Tm () Tj
+1 0 0 1 40 550 Tm (### 3.1 Lista de clientes) Tj
+1 0 0 1 40 536 Tm () Tj
+1 0 0 1 40 522 Tm (- Exibe a **lista de clientes** \(parceiros de negcio\) com busca por nome ou cdigo.) Tj
+1 0 0 1 40 508 Tm (- O usurio pode ver dados do cliente, **contatos** \(telefone, e-mail\) e **acessar no mapa**.) Tj
+1 0 0 1 40 494 Tm (-  possvel **ligar** ou **abrir WhatsApp** direto pelo aplicativo a partir dos contatos.) Tj
+1 0 0 1 40 480 Tm () Tj
+1 0 0 1 40 466 Tm () Tj
+1 0 0 1 40 452 Tm ([Imagem] https://github.com/user-attachments/assets/a39e23a6-d420-43f8-a1af-467c44466fe2) Tj
+1 0 0 1 40 438 Tm () Tj
+1 0 0 1 40 424 Tm () Tj
+1 0 0 1 40 410 Tm (### 3.2 Cadastro de parceiro de negcio \(Cadastro PN\)) Tj
+1 0 0 1 40 396 Tm () Tj
+1 0 0 1 40 382 Tm (- Permite **cadastrar** ou **editar** um cliente \(parceiro de negcio\).) Tj
+1 0 0 1 40 368 Tm (- Inclui dados gerais, endereos de cobrana e entrega, contatos e caractersticas conforme a) Tj
+1 0 0 1 40 354 Tm (regra do negcio.) Tj
+1 0 0 1 40 340 Tm (- O cadastro pode ser salvo **no aparelho** e enviado para o servidor quando houver conexo; ) Tj
+1 0 0 1 40 326 Tm (possvel registrar a **localizao \(GPS\)** no momento do cadastro.) Tj
+1 0 0 1 40 312 Tm () Tj
+1 0 0 1 40 298 Tm () Tj
+1 0 0 1 40 284 Tm ([Imagem] https://github.com/user-attachments/assets/a62fd581-1ee1-4b45-a047-b17620f43684) Tj
+1 0 0 1 40 270 Tm () Tj
+1 0 0 1 40 256 Tm ([Imagem] https://github.com/user-attachments/assets/df7ec04c-b060-4037-9dd6-0dd7cf41c28f) Tj
+1 0 0 1 40 242 Tm () Tj
+1 0 0 1 40 228 Tm () Tj
+1 0 0 1 40 214 Tm (---) Tj
+1 0 0 1 40 200 Tm () Tj
+1 0 0 1 40 186 Tm (## 4. Venda rpida) Tj
+1 0 0 1 40 172 Tm () Tj
+1 0 0 1 40 158 Tm (-  o mdulo central para **fazer vendas no celular**.) Tj
+1 0 0 1 40 144 Tm (- O usurio escolhe ou busca um **cliente**, monta um **carrinho** com itens, preos e) Tj
+1 0 0 1 40 130 Tm (quantidades.) Tj
+1 0 0 1 40 116 Tm (- Permite criar **cotaes** e **pedidos**, com opo de **rascunho** para continuar depois.) Tj
+1 0 0 1 40 102 Tm (- O usurio pode ver **documentos** \(cotaes e pedidos\) em aberto, pendentes ou com falha de) Tj
+1 0 0 1 40 88 Tm (envio, e **revisar ou reenviar** quando necessrio.) Tj
+1 0 0 1 40 74 Tm (- H suporte a **mltiplos idiomas** e a uso **offline**: dados so gravados no aparelho e) Tj
+1 0 0 1 40 60 Tm (enviados quando a conexo estiver disponvel.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 14 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3078 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 802 Tm () Tj
+1 0 0 1 40 788 Tm () Tj
+1 0 0 1 40 774 Tm ([Imagem] https://github.com/user-attachments/assets/336d386b-808c-4980-a574-e3a5d38035bc) Tj
+1 0 0 1 40 760 Tm () Tj
+1 0 0 1 40 746 Tm ([Imagem] https://github.com/user-attachments/assets/64e1b017-ac95-4f60-bac9-02ad46a847a3) Tj
+1 0 0 1 40 732 Tm () Tj
+1 0 0 1 40 718 Tm () Tj
+1 0 0 1 40 704 Tm ([Imagem] https://github.com/user-attachments/assets/10684ec4-8dab-43c6-8eab-de6496615a20) Tj
+1 0 0 1 40 690 Tm () Tj
+1 0 0 1 40 676 Tm ([Imagem] https://github.com/user-attachments/assets/92427866-f050-47c9-a621-7bfc5bb481fe) Tj
+1 0 0 1 40 662 Tm () Tj
+1 0 0 1 40 648 Tm () Tj
+1 0 0 1 40 634 Tm ([Imagem] https://github.com/user-attachments/assets/f7394264-f241-4b77-9a34-b0d442bb5e28) Tj
+1 0 0 1 40 620 Tm () Tj
+1 0 0 1 40 606 Tm ([Imagem] https://github.com/user-attachments/assets/d3f878aa-5a97-421d-be63-2714a0d98063) Tj
+1 0 0 1 40 592 Tm () Tj
+1 0 0 1 40 578 Tm () Tj
+1 0 0 1 40 564 Tm ([Imagem] https://github.com/user-attachments/assets/d516baaf-3b1c-4046-ab64-86f89811de93) Tj
+1 0 0 1 40 550 Tm () Tj
+1 0 0 1 40 536 Tm ([Imagem] https://github.com/user-attachments/assets/f3b3ee3f-7b36-4332-8bc7-582c04948654) Tj
+1 0 0 1 40 522 Tm () Tj
+1 0 0 1 40 508 Tm () Tj
+1 0 0 1 40 494 Tm ([Imagem] https://github.com/user-attachments/assets/cad38261-08e6-4a6a-90c8-d46bd8aae3e7) Tj
+1 0 0 1 40 480 Tm () Tj
+1 0 0 1 40 466 Tm ([Imagem] https://github.com/user-attachments/assets/667b45f9-b127-4fcb-995b-89a0deb98e68) Tj
+1 0 0 1 40 452 Tm () Tj
+1 0 0 1 40 438 Tm () Tj
+1 0 0 1 40 424 Tm (---) Tj
+1 0 0 1 40 410 Tm () Tj
+1 0 0 1 40 396 Tm (## 5. Vendas \(Cotaes e Pedidos\)) Tj
+1 0 0 1 40 382 Tm () Tj
+1 0 0 1 40 368 Tm (### 5.1 Lista de cotaes) Tj
+1 0 0 1 40 354 Tm () Tj
+1 0 0 1 40 340 Tm (- Lista as **cotaes** do vendedor.) Tj
+1 0 0 1 40 326 Tm (- O usurio pode **filtrar**, **ordenar** e **abrir** cada cotao para ver detalhes ou dar) Tj
+1 0 0 1 40 312 Tm (continuidade \(por exemplo, converter em pedido\), enviar espelho para seu cliente via) Tj
+1 0 0 1 40 298 Tm (compartilhamento ou direto pelo whatsapp.) Tj
+1 0 0 1 40 284 Tm (- Um boto de ao rpida permite ir direto para **Venda Rpida** \(nova cotao\).) Tj
+1 0 0 1 40 270 Tm () Tj
+1 0 0 1 40 256 Tm () Tj
+1 0 0 1 40 242 Tm ([Imagem] https://github.com/user-attachments/assets/ba95945b-f830-4245-bcdb-b38b37348bd4) Tj
+1 0 0 1 40 228 Tm () Tj
+1 0 0 1 40 214 Tm ([Imagem] https://github.com/user-attachments/assets/70992647-dee3-4181-8536-555ef8e7e0f1) Tj
+1 0 0 1 40 200 Tm () Tj
+1 0 0 1 40 186 Tm () Tj
+1 0 0 1 40 172 Tm (### 5.2 Lista de pedidos) Tj
+1 0 0 1 40 158 Tm () Tj
+1 0 0 1 40 144 Tm (- Lista os **pedidos** do vendedor.) Tj
+1 0 0 1 40 130 Tm (- O usurio pode **filtrar**, **ordenar** e **abrir** cada pedido para ver detalhes.) Tj
+1 0 0 1 40 116 Tm (- Um boto de ao rpida permite ir direto para **Venda Rpida** \(novo pedido\).) Tj
+1 0 0 1 40 102 Tm () Tj
+1 0 0 1 40 88 Tm () Tj
+1 0 0 1 40 74 Tm ([Imagem] https://github.com/user-attachments/assets/919a6075-0f31-45b1-a096-7db9b74b0241) Tj
+1 0 0 1 40 60 Tm () Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 14 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2891 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 802 Tm () Tj
+1 0 0 1 40 788 Tm (---) Tj
+1 0 0 1 40 774 Tm () Tj
+1 0 0 1 40 760 Tm (## 6. Atendimento) Tj
+1 0 0 1 40 746 Tm () Tj
+1 0 0 1 40 732 Tm (### 6.1 Atendimentos) Tj
+1 0 0 1 40 718 Tm () Tj
+1 0 0 1 40 704 Tm (- Exibe a **lista de atendimentos** \(visitas, contatos com clientes\).) Tj
+1 0 0 1 40 690 Tm (- O usurio pode **pesquisar**, **filtrar** e **ordenar**.) Tj
+1 0 0 1 40 676 Tm (- Permite **criar novo atendimento** ver historico de pareceres, adicionar anexos e acessar a) Tj
+1 0 0 1 40 662 Tm (**Agenda** por um boto de ao rpida.) Tj
+1 0 0 1 40 648 Tm () Tj
+1 0 0 1 40 634 Tm () Tj
+1 0 0 1 40 620 Tm ([Imagem] https://github.com/user-attachments/assets/a3e1b377-3732-4ba3-b6e5-f221fa743176) Tj
+1 0 0 1 40 606 Tm () Tj
+1 0 0 1 40 592 Tm ([Imagem] https://github.com/user-attachments/assets/37a3e484-974b-4009-abfb-bbaa936feff2) Tj
+1 0 0 1 40 578 Tm () Tj
+1 0 0 1 40 564 Tm () Tj
+1 0 0 1 40 550 Tm ([Imagem] https://github.com/user-attachments/assets/4e871825-0787-4224-b26b-ad630f049850) Tj
+1 0 0 1 40 536 Tm () Tj
+1 0 0 1 40 522 Tm ([Imagem] https://github.com/user-attachments/assets/121df42e-01a0-48b5-847f-586089f42c8e) Tj
+1 0 0 1 40 508 Tm () Tj
+1 0 0 1 40 494 Tm () Tj
+1 0 0 1 40 480 Tm (### 6.2 Agenda) Tj
+1 0 0 1 40 466 Tm () Tj
+1 0 0 1 40 452 Tm (- Mostra um **calendrio** com os atendimentos por data.) Tj
+1 0 0 1 40 438 Tm (- O usurio v atendimentos **para o dia**, **atrasados** e **futuros**.) Tj
+1 0 0 1 40 424 Tm (- Ao tocar em um dia, so exibidos os atendimentos daquela data para consulta ou planejamento.) Tj
+1 0 0 1 40 410 Tm () Tj
+1 0 0 1 40 396 Tm () Tj
+1 0 0 1 40 382 Tm ([Imagem] https://github.com/user-attachments/assets/3109c1df-f5cf-424b-941a-ea7e0d98d1c0) Tj
+1 0 0 1 40 368 Tm () Tj
+1 0 0 1 40 354 Tm () Tj
+1 0 0 1 40 340 Tm (---) Tj
+1 0 0 1 40 326 Tm () Tj
+1 0 0 1 40 312 Tm (## 7. Relatrios) Tj
+1 0 0 1 40 298 Tm () Tj
+1 0 0 1 40 284 Tm (### 7.1 Relatrios de vendas faturadas) Tj
+1 0 0 1 40 270 Tm () Tj
+1 0 0 1 40 256 Tm (- Apresenta **relatrios de vendas** \(faturadas\), com viso por vendedor e por perodo.) Tj
+1 0 0 1 40 242 Tm (- Inclui indicadores como **top clientes do ms**, **clientes sem compras**, **leads sem) Tj
+1 0 0 1 40 228 Tm (compras** e **clientes positivados**.) Tj
+1 0 0 1 40 214 Tm (- O usurio pode **expandir** sees e ver detalhes dos itens faturados por pedido.) Tj
+1 0 0 1 40 200 Tm () Tj
+1 0 0 1 40 186 Tm () Tj
+1 0 0 1 40 172 Tm ([Imagem] https://github.com/user-attachments/assets/a6f3d049-9b58-4166-a023-d47eb7c0d9f4) Tj
+1 0 0 1 40 158 Tm () Tj
+1 0 0 1 40 144 Tm ([Imagem] https://github.com/user-attachments/assets/fcba64b0-1fb7-4528-857e-bbe6d9c5b022) Tj
+1 0 0 1 40 130 Tm () Tj
+1 0 0 1 40 116 Tm () Tj
+1 0 0 1 40 102 Tm () Tj
+1 0 0 1 40 88 Tm (### 7.2 Metas do vendedor) Tj
+1 0 0 1 40 74 Tm () Tj
+1 0 0 1 40 60 Tm (- Exibe as **metas de vendas** do vendedor logado.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 14 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3105 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 802 Tm (- Mostra o **desempenho por ms** \(valor realizado x meta\), em geral em forma de grfico ou) Tj
+1 0 0 1 40 788 Tm (cards.) Tj
+1 0 0 1 40 774 Tm (- Ajuda o vendedor a acompanhar se est no caminho da meta.) Tj
+1 0 0 1 40 760 Tm () Tj
+1 0 0 1 40 746 Tm () Tj
+1 0 0 1 40 732 Tm ([Imagem] https://github.com/user-attachments/assets/39fe0cb6-d4b8-4ed1-b871-bbad1e71613c) Tj
+1 0 0 1 40 718 Tm () Tj
+1 0 0 1 40 704 Tm ([Imagem] https://github.com/user-attachments/assets/8a547ab7-8f6a-40ec-854a-7a08ef025750) Tj
+1 0 0 1 40 690 Tm () Tj
+1 0 0 1 40 676 Tm () Tj
+1 0 0 1 40 662 Tm (---) Tj
+1 0 0 1 40 648 Tm () Tj
+1 0 0 1 40 634 Tm (## 8. Mapa) Tj
+1 0 0 1 40 620 Tm () Tj
+1 0 0 1 40 606 Tm (- Exibe um **mapa** com a **localizao do usurio** e dos **clientes** que possuem endereo) Tj
+1 0 0 1 40 592 Tm (com coordenadas.) Tj
+1 0 0 1 40 578 Tm (- O usurio pode **buscar um cliente** e ver onde ele est no mapa.) Tj
+1 0 0 1 40 564 Tm (-  possvel **traar rota** at o cliente e **abrir no Waze ou no Google Maps** para) Tj
+1 0 0 1 40 550 Tm (navegao.) Tj
+1 0 0 1 40 536 Tm (- Clientes sem coordenadas podem ser listados em uma mensagem para que o usurio saiba que no) Tj
+1 0 0 1 40 522 Tm (aparecem no mapa.) Tj
+1 0 0 1 40 508 Tm () Tj
+1 0 0 1 40 494 Tm () Tj
+1 0 0 1 40 480 Tm ([Imagem] https://github.com/user-attachments/assets/14a035a1-4225-451e-8864-04a14bc84c29) Tj
+1 0 0 1 40 466 Tm () Tj
+1 0 0 1 40 452 Tm ([Imagem] https://github.com/user-attachments/assets/4fe2ddec-2683-45e6-af98-2f04b9ab321a) Tj
+1 0 0 1 40 438 Tm () Tj
+1 0 0 1 40 424 Tm () Tj
+1 0 0 1 40 410 Tm ([Imagem] https://github.com/user-attachments/assets/e87f09d3-8dfc-40a4-88ee-5d77b0ead668) Tj
+1 0 0 1 40 396 Tm () Tj
+1 0 0 1 40 382 Tm ([Imagem] https://github.com/user-attachments/assets/b6cb326e-4cf3-4125-8f79-a4697f1830c9) Tj
+1 0 0 1 40 368 Tm () Tj
+1 0 0 1 40 354 Tm () Tj
+1 0 0 1 40 340 Tm (---) Tj
+1 0 0 1 40 326 Tm () Tj
+1 0 0 1 40 312 Tm (## 9. Sincronizao) Tj
+1 0 0 1 40 298 Tm () Tj
+1 0 0 1 40 284 Tm (- Permite **escolher o que sincronizar**: clientes, itens e preos, estoque, atendimentos,) Tj
+1 0 0 1 40 270 Tm (cotaes, pedidos, oportunidades, relatrios, configuraes ou dados mestres.) Tj
+1 0 0 1 40 256 Tm (- H a opo de **sincronizar todos** os pacotes de uma vez.) Tj
+1 0 0 1 40 242 Tm (- Ao confirmar, o aplicativo inicia a **carga/sincronizao** \(em outra tela de progresso\),) Tj
+1 0 0 1 40 228 Tm (baixando e gravando no aparelho apenas o que foi selecionado.) Tj
+1 0 0 1 40 214 Tm (- til para **atualizar dados** aps um tempo sem uso ou quando algo foi alterado no sistema) Tj
+1 0 0 1 40 200 Tm (de origem.) Tj
+1 0 0 1 40 186 Tm () Tj
+1 0 0 1 40 172 Tm () Tj
+1 0 0 1 40 158 Tm ([Imagem] https://github.com/user-attachments/assets/6c6ae6cd-8fb9-49ef-ae21-2d42a3669387) Tj
+1 0 0 1 40 144 Tm () Tj
+1 0 0 1 40 130 Tm () Tj
+1 0 0 1 40 116 Tm (---) Tj
+1 0 0 1 40 102 Tm () Tj
+1 0 0 1 40 88 Tm (## 10. Configurao \(dentro do app\)) Tj
+1 0 0 1 40 74 Tm () Tj
+1 0 0 1 40 60 Tm (- Mostra a **base de dados \(empresa\)** em uso e a **ltima vez que os dados foram) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 14 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3380 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 802 Tm (sincronizados**.) Tj
+1 0 0 1 40 788 Tm (- O usurio pode **trocar a filial** e a **utilizao** padro \(quando a empresa tiver mais de) Tj
+1 0 0 1 40 774 Tm (uma\).) Tj
+1 0 0 1 40 760 Tm (- Permite **ajustar permisses** do aparelho \(localizao, cmera, armazenamento,) Tj
+1 0 0 1 40 746 Tm (notificaes\) e **abrir as configuraes do sistema** se necessrio.) Tj
+1 0 0 1 40 732 Tm (- Inclui opes como **idioma do aplicativo**, **sincronizao automtica de cotaes** \(se) Tj
+1 0 0 1 40 718 Tm (existir\) e outras preferncias disponveis na tela.) Tj
+1 0 0 1 40 704 Tm (- Exibe a **verso do aplicativo**.) Tj
+1 0 0 1 40 690 Tm () Tj
+1 0 0 1 40 676 Tm () Tj
+1 0 0 1 40 662 Tm ([Imagem] https://github.com/user-attachments/assets/254b8607-8666-45fc-8464-6b57b9e7af70) Tj
+1 0 0 1 40 648 Tm () Tj
+1 0 0 1 40 634 Tm () Tj
+1 0 0 1 40 620 Tm (---) Tj
+1 0 0 1 40 606 Tm () Tj
+1 0 0 1 40 592 Tm (## 11. Menu lateral e sada) Tj
+1 0 0 1 40 578 Tm () Tj
+1 0 0 1 40 564 Tm (- O **menu lateral** \(cone de barras no topo\) lista todas as reas do aplicativo na ordem) Tj
+1 0 0 1 40 550 Tm (descrita acima: Dashboard, Clientes \(Lista e Cadastro PN\), Venda Rpida, Vendas \(Cotaes e) Tj
+1 0 0 1 40 536 Tm (Pedidos\), Atendimento \(Atendimentos e Agenda\), Relatrios \(Vendas Faturadas e Metas Vendedor\),) Tj
+1 0 0 1 40 522 Tm (Mapa, Sincronizao e Configurao.) Tj
+1 0 0 1 40 508 Tm (- O que aparece no menu pode **variar conforme as permisses** do usurio \(por exemplo, s v) Tj
+1 0 0 1 40 494 Tm (Cotaes ou Pedidos se tiver permisso\).) Tj
+1 0 0 1 40 480 Tm (- No final do menu h a opo **Sair do aplicativo**, que encerra a sesso e, no Android, pode) Tj
+1 0 0 1 40 466 Tm (fechar o app \(com confirmao\).) Tj
+1 0 0 1 40 452 Tm () Tj
+1 0 0 1 40 438 Tm () Tj
+1 0 0 1 40 424 Tm ([Imagem] https://github.com/user-attachments/assets/633d5be0-a971-42f3-873f-d08f603dc8d7) Tj
+1 0 0 1 40 410 Tm () Tj
+1 0 0 1 40 396 Tm () Tj
+1 0 0 1 40 382 Tm (---) Tj
+1 0 0 1 40 368 Tm () Tj
+1 0 0 1 40 354 Tm (## Resumo) Tj
+1 0 0 1 40 340 Tm () Tj
+1 0 0 1 40 326 Tm (O aplicativo permite que o vendedor:) Tj
+1 0 0 1 40 312 Tm () Tj
+1 0 0 1 40 298 Tm (- **Configure** a empresa e faa **login** com usurio e senha.) Tj
+1 0 0 1 40 284 Tm (- Use um **painel \(Dashboard\)** com indicadores do dia a dia e meta do ms.) Tj
+1 0 0 1 40 270 Tm (- **Consulte e cadastre clientes**, com lista, busca, contatos e mapa.) Tj
+1 0 0 1 40 256 Tm (- **Faa vendas pelo celular** \(Venda Rpida\): cotaes e pedidos, com suporte a rascunho e) Tj
+1 0 0 1 40 242 Tm (uso offline.) Tj
+1 0 0 1 40 228 Tm (- **Acesse listas** de cotaes e pedidos para filtrar, ordenar e abrir detalhes.) Tj
+1 0 0 1 40 214 Tm (- **Gerencie atendimentos** e visualize a **agenda** no calendrio.) Tj
+1 0 0 1 40 200 Tm (- **Veja relatrios** de vendas faturadas e **acompanhe suas metas**.) Tj
+1 0 0 1 40 186 Tm (- **Use o mapa** para localizar clientes e abrir rotas no Waze ou Google Maps.) Tj
+1 0 0 1 40 172 Tm (- **Sincronize** os dados escolhendo o que atualizar \(ou tudo\).) Tj
+1 0 0 1 40 158 Tm (- **Ajuste** filial, utilizao, idioma e preferncias na tela de Configurao.) Tj
+1 0 0 1 40 144 Tm () Tj
+1 0 0 1 40 130 Tm (Tudo em um nico aplicativo, com foco em uso no campo, com ou sem internet, e em linguagem) Tj
+1 0 0 1 40 116 Tm (simples para o dia a dia do vendedor.) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 14 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 6 >>
+endobj
+15 0 obj
+<< /Type /Catalog /Pages 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000003558 00000 n 
+0000003685 00000 n 
+0000007089 00000 n 
+0000007216 00000 n 
+0000010345 00000 n 
+0000010472 00000 n 
+0000013414 00000 n 
+0000013541 00000 n 
+0000016698 00000 n 
+0000016827 00000 n 
+0000020259 00000 n 
+0000020388 00000 n 
+0000020478 00000 n 
+trailer
+<< /Size 16 /Root 15 0 R >>
+startxref
+20529
+%%EOF
